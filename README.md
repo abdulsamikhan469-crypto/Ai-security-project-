@@ -2,7 +2,7 @@
 This project focuses on Ai security guild lines and ethical practice 
 AI Security Guidelines
 
-"## Summary"
+"##Summary"
 
 Artificial Intelligence is quickly becoming a part of education, healthcare, business, finance and many other areas. Even though AI brings benefits it can also be used in harmful or bad ways. This project is about creating world AI security guidelines to stop the misuse of AI systems and make sure there are fewer security dangers. The main goal is to make a plan that helps developers and companies create, use and manage AI systems in an responsible way.
 
